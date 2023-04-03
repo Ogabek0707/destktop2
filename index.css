@@ -1,0 +1,1908 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Montserrat&family=Poppins&family=Source+Sans+Pro:wght@600&family=Source+Serif+Pro:wght@600&display=swap');
+.body{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 48px;
+    width: 100%;
+}
+.body h5{
+    position: absolute;
+    left: 500px;
+    top: -10px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #4B5563;    
+}
+.body img {
+ position: absolute;
+ top: 15px; 
+ left: 1270px;  
+}
+.body2{
+    background: rgba(0, 53, 59, 1);
+    width: 100%;
+    height: 1244px;
+    position: absolute;
+    top: 48px;
+    left: 0;
+}
+.section{
+    position: absolute;
+    top: 20px;
+    left: 450px;
+}
+.section a{
+    text-decoration: none;  
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin: 0 0 0 24px;
+}
+.you a{
+    position: absolute;
+    left: 580px;
+    display: flex;
+    top: 3px;
+    cursor: pointer;
+}
+.you a img{
+    position: absolute;
+    left: -25px;
+    top: 3px;
+}
+.you2 a{
+    position: absolute;
+    left: 680px;
+    display: flex;
+    top: 3px;
+}
+.you2 a img{
+    position: absolute;
+    left: -25px;
+    top: 3px;
+}
+.you2 button{
+    position: absolute;
+    height: 50px;
+    top: -10px;
+    width: 106px;
+    margin-left: 770px;
+    padding: 13px 25px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1F2937;  
+    border-radius: 8px; 
+    border: none;
+}
+.section2 h1{
+    position: absolute;
+    height: 135px;
+    width: 598px;
+    top: 235px;
+    left: 70px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 67px;
+    color: #FFFFFF;   
+}
+.section2 p{
+    position: absolute;
+    height: 54px;
+    width: 587px;
+    left: 70px;
+    top: 400px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;    
+}
+.you5{
+    display: flex;
+    position: absolute;
+    top: 506px;
+    left: 70px;
+}
+.you5 button{
+    padding: 13px 25px;
+    background: #22A45A;
+    border-radius: 8px;
+    border: none;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;    
+}
+.you5 h5{
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;    
+    margin-left: 16px;
+}
+.you5 h5 img{
+    position: absolute;
+    top: 30px;
+    left: 290px;
+}
+.you6{
+    display: flex;
+    position: absolute;
+    top: 623px;
+    left: 70px;
+}
+.you6 .you4{
+    position: absolute;
+    left: 170px;
+}
+.you6 .you4 h6{
+    position: absolute;
+    width: 132px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;  
+    top: -15px;  
+    left: 1px;
+}
+.you7 img{
+    border-radius: 24px;
+    position: absolute;
+    top: 120px;
+    left: 725px;
+}
+.you7 span img{
+    position: absolute;
+    top: 454.62px;
+    left: 638.35px;
+}
+.you7 header img{
+    position: absolute;
+    top: 494.62px;
+    left: 638.35px;
+}
+.section2 h6{
+    position: absolute;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;    
+    top: 830px;
+    left: 500px;
+}
+.body3{
+    width: 1200px;
+    height: 425px;
+    background: #FCD8CA;
+    border-radius: 24px;
+    position: absolute;
+    height: 425px;
+    top: 1031px;  
+    left: 70px;  
+}
+.body3 button{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #1F2937; 
+    padding: 4px 8px; 
+    background: #FFFFFF;
+    border-radius: 4px; 
+    border: none;
+    position: absolute;
+    top: 64px;
+    left: 592px;
+}
+.body3 h1{
+    position: absolute;
+    top: 104px;
+    left: 285px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #1F2937;   
+}
+.body3 p{
+    position: absolute;
+    width: 730px;
+    height: 81px;
+    top: 191px;
+    left: 265px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    text-align: center;
+    font-size: 18px;
+    line-height: 27px;
+    color: #374151;   
+}
+.body3 span button{
+    position: absolute;
+    top: 321px;
+    left: 572px;
+    background: #1F2937;
+    border: 1px solid #1F2937;
+    border-radius: 8px; 
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;   
+    padding: 13px 25px; 
+}
+
+
+.body4{
+    position: absolute;
+    width: 100%;
+    height: 880px;
+    left: 0;
+    top: 1456px;
+}
+.body4 img{
+    position: absolute;
+    top: 160px;
+    left: 70px;
+}
+.body4 h1{
+    position: absolute;
+    height: 116px;
+    width: 547px;
+    top: 297px;
+    left: 764px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #1F2937;
+}
+.body4 p{
+    position: absolute;
+    height: 81px;
+    left: 764px;
+    top: 441px;
+    width: 574px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #4B5563;    
+}
+.you8{
+    display: flex;
+    position: absolute;
+    top: 571px;
+    left: 764px;
+}
+.body4 .you8 button{
+    position: absolute;
+    height: 50px;
+    width: 135px;
+    background: #1F2937;
+    border: 1px solid #1F2937;
+    border-radius: 8px;    
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;  
+}
+.body4 .you8 a{
+    text-decoration: none;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #111827;
+    margin-left: 150px;
+    margin-top: 13px;
+}
+.body4 .you8 img{
+    position: absolute;
+    top: 19px;
+    left: 245px;
+}
+
+
+
+
+.body5{
+    position: absolute;
+    width: 100%;
+    height: 720px;
+    left: 0;
+    top: 2336px;
+}
+.body5 img{
+    position: absolute;
+    top: 0;
+    left: 764px;
+}
+.body5 h1{
+    position: absolute;
+    height: 116px;
+    top: 137px;
+    left: 70px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #1F2937;
+    width: 519px;
+}
+.body5 p{
+    position: absolute;
+    height: 81px;
+    left: 70px;
+    top: 281px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #4B5563;   
+    width: 574px; 
+}
+.you8{
+    display: flex;
+    position: absolute;
+    top: 401px;
+    left: 70px;
+}
+.body5 .you8 button{
+    position: absolute;
+    height: 50px;
+    width: 135px;
+    background: #1F2937;
+    border: 1px solid #1F2937;
+    border-radius: 8px;    
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;  
+}
+.body5 .you8 a{
+    text-decoration: none;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #111827;
+    margin-left: 150px;
+    margin-top: 13px;
+}
+.body5 .you8 img{
+    position: absolute;
+    top: 19px;
+    left: 245px;
+}
+
+
+
+
+
+
+
+
+
+.body6{
+   position: absolute;
+   left: 0;
+   top: 3056px;
+   height: 872px;
+   width: 100%;
+}
+.body6 button{
+    position: absolute;
+    left: calc(50% - 60px/2);
+    top: 0;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #1F2937; 
+    background: #FCD8CA;
+    border-radius: 4px; 
+    padding: 4px 8px;   
+    border: none;   
+}
+.body6 h1{
+    position: absolute;
+    left: calc(50% - 629px/2 + 0.5px);
+    top: 40px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #1F2937;   
+}
+.body6 p{
+    position: absolute;
+    width: 730px;
+    height: 54px;
+    left: calc(50% - 730px/2);
+    top: 127px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #4B5563;   
+}
+.section3{
+    position: absolute;
+    height: 500px;
+    width: 405px;
+    top: 244px;
+    left: 70px;
+    background: #00353B;
+    border-radius: 16px;    
+}
+.section3 button{
+    position: absolute;
+    left: 24px;
+    top: 32px;
+    background: #FFFFFF;
+    border-radius: 4px;  
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #1F2937;     
+}
+.section3 h5{
+    position: absolute;
+    left: 24px;
+    top: 45px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;   
+}
+.section3 h6{
+    position: absolute;
+    left: 24px;
+    top: 94px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;    
+}
+.section3 span button{
+    position: absolute;
+    left: 24;
+    top: 426px;
+    background: #22A45A;
+    border: 1px solid #22A45A;
+    border-radius: 8px;   
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;    
+    padding: 9px 21px;
+}
+.section3 img{
+    position: absolute;
+    left: 195px;
+    top: 230px;    
+}
+
+
+
+
+.section4{
+    position: absolute;
+    height: 500px;
+    width: 405px;
+    top: 244px;
+    left: 502px;
+    background: #00353B;
+    border-radius: 16px;    
+}
+.section4 button{
+    position: absolute;
+    left: 24px;
+    top: 32px;
+    background: #FFFFFF;
+    border-radius: 4px;  
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #1F2937;     
+}
+.section4 h5{
+    position: absolute;
+    left: 24px;
+    top: 45px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;   
+}
+.section4 h6{
+    position: absolute;
+    left: 24px;
+    top: 134px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;    
+}
+.section4 span button{
+    position: absolute;
+    left: 24;
+    top: 426px;
+    background: #22A45A;
+    border: 1px solid #22A45A;
+    border-radius: 8px;   
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;    
+    padding: 9px 21px;
+}
+.section4 img{
+    position: absolute;
+    left: 195px;
+    top: 230px;    
+}
+
+
+
+
+.section5{
+    position: absolute;
+    height: 500px;
+    width: 405px;
+    top: 244px;
+    left: 940px;
+    background: #00353B;
+    border-radius: 16px;    
+}
+.section5 button{
+    position: absolute;
+    left: 24px;
+    top: 32px;
+    background: #FFFFFF;
+    border-radius: 4px;  
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #1F2937;     
+}
+.section5 h5{
+    position: absolute;
+    left: 24px;
+    top: 45px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;   
+}
+.section5 h6{
+    position: absolute;
+    left: 24px;
+    top: 134px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;    
+}
+.section5 span button{
+    position: absolute;
+    left: 24;
+    top: 426px;
+    background: #22A45A;
+    border: 1px solid #22A45A;
+    border-radius: 8px;   
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;    
+    padding: 9px 21px;
+}
+.section5 img{
+    position: absolute;
+    left: 195px;
+    top: 230px;    
+}
+
+
+
+
+
+
+
+.body7{
+    position: absolute;
+    top: 3928px;
+    left: 0;
+    width: 100%;
+    height: 1020px;
+}
+.body7 .section6{
+    position: absolute;
+    height: 539px;
+    width: 1280px;
+    left: 60px;
+    top: 0;
+    background: #FCD8CA;
+    border-radius: 24px;    
+}
+.body7 .section6 img{
+    position: absolute;
+    left: 640px;
+    top: 0;
+}
+.section6 button{
+    position: absolute;
+    position: absolute;
+    left: 64px;
+    top: 64px;
+    background: #FFFFFF;
+    border-radius: 4px;   
+    border: none; 
+    position: absolute;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #1F2937;   
+    padding: 4px 8px; 
+}
+.section6 span button{
+    position: absolute;
+    left: 64px;
+    top: 425px;
+    background: #1F2937;
+    border: 1px solid #1F2937;
+    border-radius: 8px; 
+    border: none;  
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF; 
+    padding: 13px 25px;   
+}
+.section6 h1{
+    position: absolute;
+    left: 64px;
+    top: 80px;
+    width: 478px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #1F2937;   
+}
+.section6 p{
+    position: absolute;
+    left: 64px;
+    top: 300px;
+    width: 480px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #374151;   
+}
+.section7 img{
+    position: absolute;
+    left: 64px;  
+    top: 629px;
+}
+.section7 h3{
+    position: absolute;
+    left: 64px;
+    top: 699px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #1F2937;   
+}
+.section7 p{
+    position: absolute;
+    left: 64px;
+    top: 760px;
+    width: 378px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #4B5563;   
+}
+.section8 img{
+    position: absolute;
+    left: 513px;  
+    top: 629px;
+}
+.section8 h3{
+    position: absolute;
+    left: 513px;
+    top: 699px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #1F2937;   
+}
+.section8 p{
+    position: absolute;
+    left: 513px;
+    top: 760px;
+    width: 378px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #4B5563;   
+}
+.section9 img{
+    position: absolute;
+    left: 955px;  
+    top: 629px;
+}
+.section9 h3{
+    position: absolute;
+    left: 955px;
+    top: 699px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #1F2937;   
+}
+.section9 p{
+    position: absolute;
+    left: 955px;
+    top: 760px;
+    width: 378px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #4B5563;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.body8{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 1175px;
+    top: 4952px;
+}
+.section10 button{
+    position: absolute;
+    top: 0;
+    background: #FCD8CA;
+    border-radius: 4px; 
+    position: absolute;
+    left: calc(50% - 55px/2);
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #1F2937;   
+    padding: 4px 8px;   
+    border: none; 
+}
+.section10 h1{
+    position: absolute;
+    width: 691px;
+    height: 116px;
+    left: calc(50% - 691px/2 + 0.5px);
+    top: 5px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #1F2937;   
+}
+.section10 p{
+    position: absolute;
+    width: 730px;
+    height: 54px;
+    left: calc(50% - 730px/2);
+    top: 154px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #4B5563;   
+}
+.body8 img{
+    position: absolute;
+    top: 317px;
+    left: 425px;
+}
+.section11 img{
+    position: absolute;
+    left: 200px;
+    top: 376px;
+}
+.section11 h1{
+    position: absolute;
+    width: 230px;
+    left: 110px;
+    top: 448px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+    color: #1F2937;   
+}
+.section11 p{
+    position: absolute;
+    width: 237px;
+    left: 110px;
+    top: 531px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #4B5563;    
+}
+
+.section12 img{
+    position: absolute;
+    left: 200px;
+    top: 666px;
+}
+.section12 h1{
+    position: absolute;
+    width: 230px;
+    left: 110px;
+    top: 737px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+    color: #1F2937;   
+}
+.section12 p{
+    position: absolute;
+    width: 237px;
+    left: 110px;
+    top: 788px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #4B5563;    
+}
+
+
+.section13 img{
+    position: absolute;
+    left: 1124px;
+    top: 392px;
+}
+.section13 h1{
+    position: absolute;
+    width: 230px;
+    left: 1035px;
+    top: 464px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+    color: #1F2937;   
+}
+.section13 p{
+    position: absolute;
+    width: 237px;
+    left: 1035px;
+    top: 514px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #4B5563;    
+}
+
+.section14 img{
+    position: absolute;
+    left: 1124px;
+    top: 649px;
+}
+.section14 h1{
+    position: absolute;
+    width: 230px;
+    left: 1035px;
+    top: 721px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+    color: #1F2937;   
+}
+.section14 p{
+    position: absolute;
+    width: 237px;
+    left: 1035px;
+    top: 771px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #4B5563;    
+}
+.body8 span button{
+    position: absolute;
+    left: 600px;
+    top: 1010px;
+    background: #1F2937;
+    border: 1px solid #1F2937;
+    border-radius: 8px; 
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;   
+    padding: 13px 25px;   
+}
+
+
+
+
+
+
+
+
+
+
+
+.body9{
+    position: absolute;
+    height: 390px;
+    left: 0%;
+    right: 0%;
+    top: 6513px;
+    background: #00353B;
+    border-radius: 0px;   
+}
+
+
+
+
+
+
+
+
+
+
+.body10{
+    position: absolute;
+    height: 780px;
+    width: 1280px;
+    left: 60px;
+    top: 6123px;
+    background: #FCD8CA;
+    border-radius: 24px;  
+}
+.body10 button{
+    position: absolute;
+    left: 598px;
+    top: 80px;
+    background: #FFFFFF;
+    border-radius: 4px; 
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #1F2937; 
+    border: none;    
+    padding: 4px 8px; 
+}
+.body10 h1{
+    position: absolute;
+    left: 366px;
+    top: 100px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #1F2937;   
+}
+.body10 p{
+    position: absolute;
+    width: 730px;
+    height: 54px;
+    left: 275px;
+    top: 200px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #4B5563;
+}
+.section15{
+    position: absolute;
+    height: 328px;
+    width: 380px;
+    left: 32px;
+    top: 356px;
+    background: #FFFFFF;
+    border-radius: 16px;  
+}
+.section15 img{
+    position: absolute;
+    top: 33px;
+    left: 32px;
+}
+.section15 p{
+    position: absolute;
+    width: 331px;
+    left: 32px;
+    top: 85px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    color: #1F2937;
+    text-align: start;
+}
+.section15 span img{
+    position: absolute;
+    top: 248px;
+    left: 32px;
+}
+.section15 span h5{
+    position: absolute;
+    left: 96px;
+    top: 222px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #111827;  
+}
+.section15 span h6{
+    position: absolute;
+    left: 96px;
+    top: 235px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6B7280;
+}
+
+
+
+
+.section16{
+    position: absolute;
+    height: 328px;
+    width: 380px;
+    left: 447px;
+    top: 356px;
+    background: #FFFFFF;
+    border-radius: 16px;  
+}
+.section16 img{
+    position: absolute;
+    top: 33px;
+    left: 32px;
+}
+.section16 p{
+    position: absolute;
+    width: 331px;
+    left: 32px;
+    top: 85px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    color: #1F2937;
+    text-align: start;
+}
+.section16 span img{
+    position: absolute;
+    top: 248px;
+    left: 32px;
+}
+.section16 span h5{
+    position: absolute;
+    left: 96px;
+    top: 212px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #111827;  
+}
+.section16 span h6{
+    position: absolute;
+    width: 181px;
+    left: 96px;
+    top: 225px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6B7280;
+}
+
+
+.section17{
+    position: absolute;
+    height: 328px;
+    width: 380px;
+    left: 862px;
+    top: 356px;
+    background: #FFFFFF;
+    border-radius: 16px;  
+}
+.section17 img{
+    position: absolute;
+    top: 33px;
+    left: 32px;
+}
+.section17 p{
+    position: absolute;
+    width: 331px;
+    left: 32px;
+    top: 85px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    color: #1F2937;
+    text-align: start;
+}
+.section17 span img{
+    position: absolute;
+    top: 248px;
+    left: 32px;
+}
+.section17 span h5{
+    position: absolute;
+    left: 96px;
+    top: 222px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #111827;  
+}
+.section17 span h6{
+    position: absolute;
+    left: 96px;
+    top: 235px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6B7280;
+}
+
+
+
+
+
+
+
+
+
+
+.body11{
+    position: absolute;
+    top: 6903px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 914px;
+    background: #00353B;
+}
+.body11 button{
+    position: absolute;
+    left: 60px;
+    top: 132px;
+    background: #FCD8CA;
+    border-radius: 4px; 
+    padding: 4px 8px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #1F2937;
+    border: none;      
+}
+.body11 h1{
+    position: absolute;
+    left: 60px;
+    top: 168px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF; 
+}
+.body11 span button{
+    position: absolute;
+    left: 1233px;
+    top: 180px;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;   
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1F2937; 
+    padding: 13px 25px;   
+}
+.section18{
+    position: absolute;
+    width: 405px;
+    height: 604px;
+    top: 310px;
+    left: 60px;
+    background: #FFFFFF;
+}
+.section18 button{
+    position: absolute;
+    left: 24px;
+    top: 324px;
+    background: #AADEA8;
+    border-radius: 4px;
+}
+.section18 h3{
+    position: absolute;
+    left: 24px;
+    width: 285px;
+    top: 344px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #1F2937;   
+}
+.section18 p{
+    position: absolute;
+    left: 24px;
+    top: 430px;
+    width: 347px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #4B5563;   
+}
+.section18 a{
+    position: absolute;
+    left: 24px;
+    top: 548px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #111827;  
+    text-decoration: none; 
+}
+.section18 a img{
+    position: absolute;
+    top: 7px;
+    left: 90px;
+}
+
+.section19{
+    position: absolute;
+    width: 405px;
+    height: 604px;
+    top: 310px;
+    left: 500px;
+    background: #FFFFFF;
+}
+.section19 button{
+    position: absolute;
+    left: 24px;
+    top: 324px;
+    background: #AADEA8;
+    border-radius: 4px;
+}
+.section19 h3{
+    position: absolute;
+    left: 24px;
+    width: 285px;
+    top: 344px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #1F2937;   
+}
+.section19 p{
+    position: absolute;
+    left: 24px;
+    top: 430px;
+    width: 347px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #4B5563;   
+}
+.section19 a{
+    position: absolute;
+    left: 24px;
+    top: 548px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #111827;  
+    text-decoration: none; 
+}
+.section19 a img{
+    position: absolute;
+    top: 7px;
+    left: 90px;
+}
+
+
+
+.section20{
+    position: absolute;
+    width: 405px;
+    height: 604px;
+    top: 310px;
+    left: 940px;
+    background: #FFFFFF;
+}
+.section20 button{
+    position: absolute;
+    left: 24px;
+    top: 324px;
+    background: #AADEA8;
+    border-radius: 4px;
+}
+.section20 h3{
+    position: absolute;
+    left: 24px;
+    width: 285px;
+    top: 344px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #1F2937;   
+}
+.section20 p{
+    position: absolute;
+    left: 24px;
+    top: 430px;
+    width: 347px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #4B5563;   
+}
+.section20 a{
+    position: absolute;
+    left: 24px;
+    top: 548px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #111827;  
+    text-decoration: none; 
+}
+.section20 a img{
+    position: absolute;
+    top: 7px;
+    left: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.body12{
+    position: absolute;
+    position: absolute;
+    height: 433px;
+    width: 100%;
+    left: 0%;
+    top: 7817px;
+    background: #00353B;   
+}
+.body12 h1{
+    position: absolute;
+    top: 80px;
+    left: 456px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #FFFFFF;   
+}
+.body12 p{
+    position: absolute;
+    width: 730px;
+    left: 335px;
+    top: 170px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;   
+}
+.body12 button{
+    position: absolute;
+    left: 559px;
+    top: 285px;
+    background: #22A45A;
+    border: none;
+    border-radius: 8px;   
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;    
+    padding: 13px 25px;
+}
+.body12 span button{
+    position: absolute;
+    left: 710px;
+    top: 285px;
+    background: #FFFFFF;
+    border-radius: 8px;   
+    border: none;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #1F2937;  
+    padding: 13px 25px;
+}
+
+
+
+
+
+
+
+
+
+.body13{
+    position: absolute;
+    top: 8250px;
+    left: 0%;
+    width: 100%;
+    background: #00353B;
+    height: 641px;
+}
+.you10 h4{
+    position: absolute;
+    left: 60px;
+    top: 139px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    width: 394px;
+}
+.you10 input{
+    position: absolute;
+    left: 60px;
+    top: 240px;
+    background: #FFFFFF;
+    border-radius: 8px;   
+    width: 260px;
+    height: 48px;
+    outline: none;
+    border: none;
+}
+.you10 p{
+    position: absolute;
+    left: 60px;
+    top: 297px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;   
+}
+.you10 button{
+    position: absolute;
+    left: 346px;
+    top: 240px;
+    background: #22A45A;
+    border: 1px solid #22A45A;
+    border-radius: 8px;  
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding: 12.5px 25px;
+}
+.you11 h1{
+    position: absolute;
+    left: 540px;
+    top: 80px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;    
+}
+.you11 h2{
+    position: absolute;
+    left: 540px;
+    top: 128px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you11 h3{
+    position: absolute;
+    left: 540px;
+    top: 165px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you11 h4{
+    position: absolute;
+    left: 540px;
+    top: 202px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you11 h5{
+    position: absolute;
+    left: 540px;
+    top: 239px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you11 h6{
+    position: absolute;
+    left: 540px;
+    top: 266px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you11 span{
+    position: absolute;
+    left: 540px;
+    top: 335px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you12 h1{
+    position: absolute;
+    left: 752px;
+    top: 80px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.you12 h2{
+    position: absolute;
+    left: 752px;
+    top: 128px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you12 h3{
+    position: absolute;
+    left: 752px;
+    top: 165px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you12 h4{
+    position: absolute;
+    left: 752px;
+    top: 202px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you12 h5{
+    position: absolute;
+    left: 752px;
+    top: 239px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you12 h6{
+    position: absolute;
+    left: 752px;
+    top: 266px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you12 p{
+    position: absolute;
+    left: 752px;
+    top: 323px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you12 span{
+    position: absolute;
+    left: 752px;
+    top: 375px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you12 header{
+    position: absolute;
+    left: 752px;
+    top: 410px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you13 h1{
+    position: absolute;
+    left: 964px;
+    top: 80px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;   
+}
+.you13 h2{
+    position: absolute;
+    left: 964px;
+    top: 128px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.you13 h3{
+    position: absolute;
+    left: 964px;
+    top: 165px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.you13 h4{
+    position: absolute;
+    left: 964px;
+    top: 202px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.you13 h5{
+    position: absolute;
+    left: 964px;
+    top: 239px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.you13 h6{
+    position: absolute;
+    left: 964px;
+    top: 270px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.you14 h1{
+    position: absolute;
+    left: 1176px;
+    top: 80px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;    
+}
+.you14 h2 {
+    position: absolute;
+    left: 1176px;
+    top: 128px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;   
+}
+.you14 h3 {
+    position: absolute;
+    left: 1176px;
+    top: 165px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;   
+}
+.you14 h4 {
+    position: absolute;
+    left: 1176px;
+    top: 202px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;   
+}
+.you14 h5 {
+    position: absolute;
+    left: 1176px;
+    top: 239px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;   
+}
+.you14 h6 {
+    position: absolute;
+    left: 1176px;
+    top: 266px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;   
+}
+.you15{
+    position: absolute;
+    height: 1px;
+    left: 60px;
+    top: 496px;
+    background: rgba(255, 255, 255, 0.08);
+    width: 1200px;
+}
+.you16 h3{
+    position: absolute;
+    left: 60px;
+    top: 534px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;    
+}
+.you16 img{
+    position: absolute;
+    left: 1200px;
+    top: 529px;
+}
